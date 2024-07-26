@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Alfaruuki
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python applications to hydrology
+- 👋 Hi, I’m @Alfaruuki, I'm a professional Python user for Data Analysis, Geospatial Analysis, and Machine Learning. I’m looking to collaborate on Python applications to hydrogeology
 - 📫 How to reach me umarpharuk418@gmail.com
 
 <!---
