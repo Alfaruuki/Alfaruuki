@@ -12,6 +12,7 @@ Here, I aim to:
 💬 Collaborate with like-minded enthusiasts who are just as excited about data and tech as I am.
 🌍 Work on projects that make a meaningful impact, especially in environmental sciences, machine learning, and sustainability solutions.
 🚀 Let's Explore Together!
+
 Feel free to explore my repositories, leave a ⭐️ if you like what you see, and connect with me! Whether you're here to collaborate, learn, or share ideas, I'm excited to connect with you in this journey through the world of data and technology.
 
 
